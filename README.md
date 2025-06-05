@@ -1,4 +1,4 @@
-#Summary
+# Summary
 My small ray tracer, this is a project to study ray tracing and computer graphics. I'm using the [Ray Tracing In One Weekend series](https://raytracing.github.io/) but changing some stuff about code structure and architecture.
 
 # Project setup
